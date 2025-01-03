@@ -43,4 +43,4 @@ I'm currently focused on:
 
 ---
 
-✨ Thank you for visiting my GitHub profile! Feel free to reach out or collaborate on exciting projects. Let's build something amazing together! 🚀
+✨ Thank you for visiting my GitHub profile! 🚀
