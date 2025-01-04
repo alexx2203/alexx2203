@@ -34,13 +34,7 @@ I'm currently focused on:
 - Mastering C# for application and game development.
 - Improving my frontend development skills using HTML and CSS.
 - Learning the fundamentals of game design to bring my ideas to life.
-
----
-
-## 📫 Connect with Me
-
-- **Email**: [a.szyniec@outlook.de](mailto\:a.szyniec@outlook.de)
-
+- 
 ---
 
 ✨ Thank you for visiting my GitHub profile! 🚀
