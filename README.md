@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and learning. Currently, I am diving deep into the world of programming, focusing on C#, HTML, and CSS. My ultimate dream is to create an amazing video game that sparks joy and inspires players worldwide.
+Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and learning. Currently, I am diving deep into the world of programming, focusing on C#, HTML, and CSS. My ultimate dream is to create a video game that sparks joy and inspires players worldwide.
 
 ---
 
