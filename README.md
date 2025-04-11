@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and learning. Currently, I am diving deep into the world of programming, focusing on C#, HTML, and CSS. My dream is to create a video game that sparks joy and inspires players worldwide.
+Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and learning. Currently, I am diving deep into the world of programming, focusing on C# and Powershell. My dream is to create a video game that sparks joy and inspires players worldwide.
 
 ---
 
@@ -13,6 +13,7 @@ Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and l
 - C#
 - HTML
 - CSS
+- Powershell
 
 ### Frameworks & Libraries
 
@@ -32,9 +33,9 @@ Hi! I'm Aleksandra, a passionate programming enthusiast who loves creating and l
 I'm currently focused on:
 
 - Mastering C# for application and game development.
-- Improving my frontend development skills using HTML and CSS.
+- Improving my Powershell skills.
 - Learning the fundamentals of game design to bring my ideas to life.
-- 
+  
 ---
 
 ✨ Thank you for visiting my GitHub profile! 🚀
