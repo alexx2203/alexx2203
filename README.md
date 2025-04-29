@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Aleksandra, a fervent fan of programming who enjoys learning and making things. I'm currently delving deeply into programming, concentrating on C# and Powershell. Making a video game is my dream.
+Hello! I'm Aleksandra, a fan of programming who enjoys learning and making things. I'm currently delving deeply into programming, concentrating on C# and Powershell. Making a video game is my dream.
 
 ConcernedApe, the lone developer of Stardew Valley, is one of my greatest inspirations.
 His commitment and creativity serve as a reminder to me that one person can create an entire world, pixel by pixel, with perseverance and heart. 
