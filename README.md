@@ -1,44 +1,45 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+🌟 Welcome to My GitHub Profile! 🌟
+👋 About Me
 
-## 👋 About Me
+Hey there. I'm Aleksandra, currently surviving the wild realm of programming with C# and PowerShell as my chosen weapons.
+I’m not pretending to be a 10x developer — I’m just stubborn enough not to give up when my code decides to go rogue.
 
-Hello! I'm Aleksandra, a fan of programming who enjoys learning and making things. I'm currently delving deeply into programming, concentrating on C# and Powershell. Making a video game is my dream.
+My ultimate goal? To build a video game that doesn’t crash (too often).
 
-ConcernedApe, the lone developer of Stardew Valley, is one of my greatest inspirations.
-His commitment and creativity serve as a reminder to me that one person can create an entire world, pixel by pixel, with perseverance and heart. 
+The legendary ConcernedApe, the lone creator of Stardew Valley, keeps me sane.
+If he could build an entire digital village alone, surely I can manage one working script without setting my PC on fire. Probably.
 
----
+🛠️ Skills and Technologies
+Programming Languages
 
-## 🛠️ Skills and Technologies
+C#
 
-### Programming Languages
+PowerShell
 
-- C#
-- HTML
-- CSS
-- Powershell
+HTML
 
-### Frameworks & Libraries
+CSS
 
-- Unity (beginner)
-- .NET (learning in progress)
+Frameworks & Libraries
 
-### Tools & Platforms
+Unity (beginner – the “why-is-my-character-floating” phase)
 
-- Git
-- Visual Studio
-- Visual Studio Code
+.NET (learning, with coffee and quiet desperation)
 
----
+Tools & Platforms
 
-## 📚 Learning Journey
+Git (and occasional git panic)
 
-I'm currently focused on:
+Visual Studio
 
-- Mastering C# for application and game development.
-- Improving my Powershell skills.
-- Learning the fundamentals of game design to bring my ideas to life.
-  
----
+Visual Studio Code
 
-✨ Thank you for visiting my GitHub profile! 🚀
+📚 Learning Journey
+
+Currently knee-deep in:
+
+Making C# obey my will.
+
+Using PowerShell to automate away my suffering.
+
+Understanding enough game design to make pixels feel alive.
