@@ -7,40 +7,30 @@ I’m not pretending to be a 10x developer — I’m just stubborn enough not to
 
 My ultimate goal? To build a video game that doesn’t crash (too often).
 
-The legendary ConcernedApe, the lone creator of Stardew Valley, keeps me sane.
-If he could build an entire digital village alone, surely I can manage one working script without setting my PC on fire. Probably.
+ConcernedApe and Swen Vincke are my greatest inspirations.
+ConcernedApe showed me that one person can build an entire world alone through passion and perseverance.
+Swen Vincke reminds me that true dedication and love for games can move not only mountains, 
+but entire teams toward something extraordinary.
 
 🛠️ Skills and Technologies
 Programming Languages
-
-C#
-
-PowerShell
-
-HTML
-
-CSS
+- C#
+- PowerShell
+- HTML
+- CSS
 
 Frameworks & Libraries
-
-Unity (beginner – the “why-is-my-character-floating” phase)
-
-.NET (learning, with coffee and quiet desperation)
+- Unity
+- .NET
 
 Tools & Platforms
-
-Git (and occasional git panic)
-
-Visual Studio
-
-Visual Studio Code
+- Git 
+- Visual Studio
+- Visual Studio Code
 
 📚 Learning Journey
 
 Currently knee-deep in:
-
-Making C# obey my will.
-
-Using PowerShell to automate away my suffering.
-
-Understanding enough game design to make pixels feel alive.
+- Making C# obey my will.
+- Using PowerShell to automate away my suffering.
+- Understanding enough game design to make pixels feel alive.
